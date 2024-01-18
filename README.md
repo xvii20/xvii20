@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Laurence</h1>
 <h3 align="center">A passionate full Stack developer from the United States</h3>
-
-<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
+<!-- <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xvii20&label=Profile%20views&color=0e75b6&style=flat" alt="xvii20" /> </p>
 
