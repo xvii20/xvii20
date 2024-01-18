@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Laurence</h1>
-<h3 align="center">A passionate full Stack developer from United States</h3>
+<h1 align="center">Hello 👋, I'm Laurence</h1>
+<h3 align="center">A passionate full Stack developer from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xvii20&label=Profile%20views&color=0e75b6&style=flat" alt="xvii20" /> </p>
 
