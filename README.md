@@ -9,17 +9,17 @@
 
 <!--  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-<div style="text-align: center;">
+<p align="center">
     🔭 I’m currently working on **Akroma**
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     🌱 I’m currently learning **Prisma**
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     💬 Ask me about **React**
-</div>
+</p>
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> </p> -->
 
