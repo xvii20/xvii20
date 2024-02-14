@@ -12,9 +12,11 @@
 <div style="text-align: center;">
     🔭 I’m currently working on **Akroma**
 </div>
+
 <div style="text-align: center;">
     🌱 I’m currently learning **Prisma**
 </div>
+
 <div style="text-align: center;">
     💬 Ask me about **React**
 </div>
